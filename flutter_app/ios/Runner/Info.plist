@@ -70,7 +70,7 @@
  	<key>GMSApiKey</key>
  	<string>AIzaSyBRtKN-fdqBRnCPJFB6bD67ZWBeo-N0rOM</string>
  	<!-- Location permissions -->
- 	<key>NSLocationWhenInUseUsageDescription</key>
+ 	<key>Null</key>
  	<string>Ứng dụng cần quyền truy cập vị trí để hiển thị bản đồ và chọn vị trí giao hàng</string>
  	<key>NSLocationAlwaysUsageDescription</key>
  	<string>Ứng dụng cần quyền truy cập vị trí để hiển thị bản đồ và chọn vị trí giao hàng</string>
